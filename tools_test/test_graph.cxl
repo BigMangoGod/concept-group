@@ -1,0 +1,172 @@
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <res-meta xmlns="">
+    <dc:title>副本-第四章：认识关系和运算之减法</dc:title>
+    <dc:creator>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dc:creator>
+    <dc:contributor>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dc:contributor>
+    <dcterms:rightsHolder>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dcterms:rightsHolder>
+  </res-meta>
+  <map xmlns="" width="0" height="0">
+    <concept-list>
+      <concept id="141b8b217-f155e41-f39" label="剩下的部分和去掉的部分，合起来数一数就是原来的整体"/>
+      <concept id="4e69f2c0e-c24bd34-d71" label="一种运算"/>
+      <concept id="bddd65b4b-7f9b5a9-c91" label="运算符号"/>
+      <concept id="787c499ab-b64f782-045" label="整体的数量-部分的数量"/>
+      <concept id="33fd1ff90-99998b6-660" label="5元钱和5个1元硬币的例题"/>
+      <concept id="3a98713fc-c1a0f55-423" label="比一比"/>
+      <concept id="b536397ed-5ab5ca8-963" label="3（个苹果）-1（个苹果）=2（个苹果）"/>
+      <concept id="cbead2f40-6bd3712-fe5" label="加法"/>
+      <concept id="d3ffa5ee5-90998d7-dcf" label="从整体里面去掉一部分然后数一数剩下的部分"/>
+      <concept id="eafc2e1af-72c045f-6c4" label="盘子里有3个苹果，吃掉1个，还有2个"/>
+      <concept id="ce508a61e-4ae18f0-ffc" label="去掉以后剩下（差）"/>
+      <concept id="d3832570d-0a8b061-57e" label="数"/>
+      <concept id="10257911b-844e2ce-5b9" label="减法"/>
+      <concept id="f9a48be42-83da951-efd" label="算式"/>
+      <concept id="749fc6760-8e07135-65b" label="吃掉的1个苹果和盘子里剩下的2个苹果合起来就是原来盘子里的3个苹果"/>
+      <concept id="d0f7feb45-1fb8da7-c76" label="-="/>
+      <concept id="904dd75b0-eee3d72-04b" label="比一比"/>
+    </concept-list>
+    <concept-appearance-list>
+      <concept-appearance id="141b8b217-f155e41-f39" x="1447" y="88"/>
+      <concept-appearance id="4e69f2c0e-c24bd34-d71" x="868" y="281"/>
+      <concept-appearance id="bddd65b4b-7f9b5a9-c91" x="838" y="443"/>
+      <concept-appearance id="787c499ab-b64f782-045" x="994" y="355"/>
+      <concept-appearance id="33fd1ff90-99998b6-660" x="529" y="222"/>
+      <concept-appearance id="3a98713fc-c1a0f55-423" x="889" y="177"/>
+      <concept-appearance id="b536397ed-5ab5ca8-963" x="1021" y="434"/>
+      <concept-appearance id="cbead2f40-6bd3712-fe5" x="1157" y="170"/>
+      <concept-appearance id="d3ffa5ee5-90998d7-dcf" x="779" y="74"/>
+      <concept-appearance id="eafc2e1af-72c045f-6c4" x="743" y="228"/>
+      <concept-appearance id="ce508a61e-4ae18f0-ffc" x="441" y="46"/>
+      <concept-appearance id="d3832570d-0a8b061-57e" x="765" y="442"/>
+      <concept-appearance id="10257911b-844e2ce-5b9" x="988" y="169"/>
+      <concept-appearance id="f9a48be42-83da951-efd" x="802" y="358"/>
+      <concept-appearance id="749fc6760-8e07135-65b" x="1448" y="256"/>
+      <concept-appearance id="d0f7feb45-1fb8da7-c76" x="845" y="533"/>
+      <concept-appearance id="904dd75b0-eee3d72-04b" x="468" y="107"/>
+    </concept-appearance-list>
+    <linking-phrase-list>
+      <linking-phrase id="9f60a0dff-eeb9000-5de" label="用...表达"/>
+      <linking-phrase id="1f603dde2-ce4b334-140" label="例如"/>
+      <linking-phrase id="81a81eee8-030345e-321" label="写成"/>
+      <linking-phrase id="271f3ff82-b950d43-ddc" label="是"/>
+      <linking-phrase id="259e57fbd-0410dc1-def" label="逆运算是"/>
+      <linking-phrase id="18675a647-2752aa8-ee1" label="可以表现为"/>
+      <linking-phrase id="2b583da62-1ece6e2-8b0" label="逆过程是"/>
+      <linking-phrase id="8ba9f1dfe-bcd1bba-67e" label="例如"/>
+      <linking-phrase id="0e338a5c2-cc73fa1-9d9" label="可转化为"/>
+      <linking-phrase id="871cf4598-7ee65d4-765" label="例如"/>
+      <linking-phrase id="5196f8b0c-54074e5-e26" label="记做"/>
+      <linking-phrase id="55b139380-c779ca9-667" label="用...表达"/>
+      <linking-phrase id="201b99d92-7720142-b3d" label="例如"/>
+      <linking-phrase id="334fbe5f8-eb55650-993" label="例如"/>
+      <linking-phrase id="2849afe93-01f143b-aa3" label="有"/>
+    </linking-phrase-list>
+    <linking-phrase-appearance-list>
+      <linking-phrase-appearance id="9f60a0dff-eeb9000-5de" x="938" y="135"/>
+      <linking-phrase-appearance id="1f603dde2-ce4b334-140" x="1449" y="174"/>
+      <linking-phrase-appearance id="81a81eee8-030345e-321" x="827" y="315"/>
+      <linking-phrase-appearance id="271f3ff82-b950d43-ddc" x="937" y="219"/>
+      <linking-phrase-appearance id="259e57fbd-0410dc1-def" x="1063" y="169"/>
+      <linking-phrase-appearance id="18675a647-2752aa8-ee1" x="574" y="78"/>
+      <linking-phrase-appearance id="2b583da62-1ece6e2-8b0" x="1079" y="89"/>
+      <linking-phrase-appearance id="8ba9f1dfe-bcd1bba-67e" x="729" y="157"/>
+      <linking-phrase-appearance id="0e338a5c2-cc73fa1-9d9" x="807" y="151"/>
+      <linking-phrase-appearance id="871cf4598-7ee65d4-765" x="859" y="357"/>
+      <linking-phrase-appearance id="5196f8b0c-54074e5-e26" x="986" y="262"/>
+      <linking-phrase-appearance id="55b139380-c779ca9-667" x="1261" y="164"/>
+      <linking-phrase-appearance id="201b99d92-7720142-b3d" x="848" y="490"/>
+      <linking-phrase-appearance id="334fbe5f8-eb55650-993" x="1005" y="393"/>
+      <linking-phrase-appearance id="2849afe93-01f143b-aa3" x="804" y="401"/>
+    </linking-phrase-appearance-list>
+    <connection-list>
+      <connection id="38f9a03be-42a6832-b17" from-id="f9a48be42-83da951-efd" to-id="2849afe93-01f143b-aa3"/>
+      <connection id="7eaa81ae0-7b0bf40-398" from-id="81a81eee8-030345e-321" to-id="f9a48be42-83da951-efd"/>
+      <connection id="96ffc8bc3-67f2d45-5e4" from-id="10257911b-844e2ce-5b9" to-id="5196f8b0c-54074e5-e26"/>
+      <connection id="8e344e16d-4833e96-b64" from-id="bddd65b4b-7f9b5a9-c91" to-id="201b99d92-7720142-b3d"/>
+      <connection id="68b336f0c-441cd9c-0a1" from-id="334fbe5f8-eb55650-993" to-id="b536397ed-5ab5ca8-963"/>
+      <connection id="82b15b598-5219673-1bf" from-id="1f603dde2-ce4b334-140" to-id="749fc6760-8e07135-65b"/>
+      <connection id="0a391a0cb-5d2edb4-d77" from-id="259e57fbd-0410dc1-def" to-id="cbead2f40-6bd3712-fe5"/>
+      <connection id="09dfc3652-410c933-f93" from-id="18675a647-2752aa8-ee1" to-id="ce508a61e-4ae18f0-ffc"/>
+      <connection id="2078e4e97-a19e5ec-721" from-id="2849afe93-01f143b-aa3" to-id="d3832570d-0a8b061-57e"/>
+      <connection id="62d09a0a5-018bcb1-fce" from-id="271f3ff82-b950d43-ddc" to-id="4e69f2c0e-c24bd34-d71"/>
+      <connection id="26490489a-2c1c58e-542" from-id="0e338a5c2-cc73fa1-9d9" to-id="d3ffa5ee5-90998d7-dcf"/>
+      <connection id="ddbfa846a-8b82bc4-784" from-id="4e69f2c0e-c24bd34-d71" to-id="81a81eee8-030345e-321"/>
+      <connection id="4e93b3d64-b25cf1a-94c" from-id="d3ffa5ee5-90998d7-dcf" to-id="8ba9f1dfe-bcd1bba-67e"/>
+      <connection id="55ab71d28-5e5df71-853" from-id="8ba9f1dfe-bcd1bba-67e" to-id="eafc2e1af-72c045f-6c4"/>
+      <connection id="1bc7c7db3-e20a2e4-e37" from-id="141b8b217-f155e41-f39" to-id="55b139380-c779ca9-667"/>
+      <connection id="d6190078d-347a50f-b53" from-id="8ba9f1dfe-bcd1bba-67e" to-id="33fd1ff90-99998b6-660"/>
+      <connection id="8049b04b4-c4fd901-95a" from-id="2849afe93-01f143b-aa3" to-id="bddd65b4b-7f9b5a9-c91"/>
+      <connection id="50380634c-09a13c3-3f9" from-id="10257911b-844e2ce-5b9" to-id="259e57fbd-0410dc1-def"/>
+      <connection id="b98a7a801-f3da5fb-600" from-id="141b8b217-f155e41-f39" to-id="1f603dde2-ce4b334-140"/>
+      <connection id="f9af492d2-b9b96ae-718" from-id="d3ffa5ee5-90998d7-dcf" to-id="18675a647-2752aa8-ee1"/>
+      <connection id="1faf66f5f-7142d23-5f4" from-id="3a98713fc-c1a0f55-423" to-id="0e338a5c2-cc73fa1-9d9"/>
+      <connection id="83fdbdd92-3c6d09e-152" from-id="9f60a0dff-eeb9000-5de" to-id="10257911b-844e2ce-5b9"/>
+      <connection id="3f1255ebe-9597285-e33" from-id="55b139380-c779ca9-667" to-id="cbead2f40-6bd3712-fe5"/>
+      <connection id="0e6d657f9-f669468-89d" from-id="871cf4598-7ee65d4-765" to-id="787c499ab-b64f782-045"/>
+      <connection id="fcdb65626-4e8948b-42a" from-id="d3ffa5ee5-90998d7-dcf" to-id="2b583da62-1ece6e2-8b0"/>
+      <connection id="8075a514e-5ba256d-278" from-id="3a98713fc-c1a0f55-423" to-id="9f60a0dff-eeb9000-5de"/>
+      <connection id="cdf338131-cf2b002-5ff" from-id="f9a48be42-83da951-efd" to-id="871cf4598-7ee65d4-765"/>
+      <connection id="51e73110c-cc173db-b9d" from-id="d3ffa5ee5-90998d7-dcf" to-id="9f60a0dff-eeb9000-5de"/>
+      <connection id="a96e8195d-3b4503e-526" from-id="5196f8b0c-54074e5-e26" to-id="787c499ab-b64f782-045"/>
+      <connection id="be3fdbbef-c9df4b6-720" from-id="10257911b-844e2ce-5b9" to-id="271f3ff82-b950d43-ddc"/>
+      <connection id="94d066574-cf07331-e97" from-id="18675a647-2752aa8-ee1" to-id="904dd75b0-eee3d72-04b"/>
+      <connection id="3e3746e85-5e6b91c-e92" from-id="2b583da62-1ece6e2-8b0" to-id="141b8b217-f155e41-f39"/>
+      <connection id="9bf8da42e-3328b40-275" from-id="787c499ab-b64f782-045" to-id="334fbe5f8-eb55650-993"/>
+      <connection id="a2d5224c6-f1b6c0d-e90" from-id="201b99d92-7720142-b3d" to-id="d0f7feb45-1fb8da7-c76"/>
+    </connection-list>
+    <concept-appearance-list>
+      <connection-appearance id="38f9a03be-42a6832-b17" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="7eaa81ae0-7b0bf40-398" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="96ffc8bc3-67f2d45-5e4" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="8e344e16d-4833e96-b64" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="68b336f0c-441cd9c-0a1" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="82b15b598-5219673-1bf" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="0a391a0cb-5d2edb4-d77" from-pos="center" to-pos="left" arrowhead="if-to-concept"/>
+      <connection-appearance id="09dfc3652-410c933-f93" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="2078e4e97-a19e5ec-721" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="62d09a0a5-018bcb1-fce" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="26490489a-2c1c58e-542" from-pos="center" to-pos="bottom" arrowhead="if-to-concept"/>
+      <connection-appearance id="ddbfa846a-8b82bc4-784" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="4e93b3d64-b25cf1a-94c" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="55ab71d28-5e5df71-853" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="1bc7c7db3-e20a2e4-e37" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="d6190078d-347a50f-b53" from-pos="center" to-pos="left" arrowhead="if-to-concept"/>
+      <connection-appearance id="8049b04b4-c4fd901-95a" from-pos="center" to-pos="top" arrowhead="if-to-concept"/>
+      <connection-appearance id="50380634c-09a13c3-3f9" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="b98a7a801-f3da5fb-600" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="f9af492d2-b9b96ae-718" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="1faf66f5f-7142d23-5f4" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="83fdbdd92-3c6d09e-152" from-pos="center" to-pos="left" arrowhead="if-to-concept"/>
+      <connection-appearance id="3f1255ebe-9597285-e33" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="0e6d657f9-f669468-89d" from-pos="center" to-pos="left" arrowhead="if-to-concept"/>
+      <connection-appearance id="fcdb65626-4e8948b-42a" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="8075a514e-5ba256d-278" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="cdf338131-cf2b002-5ff" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="51e73110c-cc173db-b9d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="a96e8195d-3b4503e-526" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="be3fdbbef-c9df4b6-720" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="94d066574-cf07331-e97" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="3e3746e85-5e6b91c-e92" from-pos="center" to-pos="left" arrowhead="if-to-concept"/>
+      <connection-appearance id="9bf8da42e-3328b40-275" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="a2d5224c6-f1b6c0d-e90" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+    </concept-appearance-list>
+  </map>
+</cmap>
